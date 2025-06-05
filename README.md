@@ -1,4 +1,5 @@
 # CodeAlpha_QuoteAnalyzer-
+#OVERALL CODE IS DONE ON GOOGLE COLLAB
 #libraries used to scrap data from a website and then visualize it
 pip install requests beautifulsoup4 pandas matplotlib seaborn textblob
 # Website URL choose  (Example: Quotes website)
